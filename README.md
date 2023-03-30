@@ -1,2 +1,2 @@
 # Git-and-Github-Commands
-git commands i learnt
+git commands i learnt while learning git and github
