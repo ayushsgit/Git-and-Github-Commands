@@ -1,0 +1,11 @@
+git init // intialize git
+
+cd // change directory in terminal
+
+git add test.txt // it will add test.txt in the folder
+
+git status // it will tell the current status of the directory
+
+git commit -m "test.txt file added" // display a messsage in the double quotes
+
+git add . // it will add all the files int folder to git
